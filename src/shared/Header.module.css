@@ -1,0 +1,9 @@
+.backlink::before {
+    content: '';
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    transform: rotate(-45deg);
+    border-top: 3px solid black;
+    border-left: 3px solid black;
+}
